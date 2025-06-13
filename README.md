@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the code and results related to the paper "A comprehensive investigation of intracortical and corticothalamic models of alpha rhythms" by SP Bastiaens, D Momi and JD Griffiths ([https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012926]https://doi.org/10.1371/journal.pcbi.1012926) which focuses on the Jansen-Rit (JR), Moran-David-Friston (MDF), Liley-Wright (LW), and Robinson-Rennie-Wright (RRW) models in the alpha regime.
+This repository contains the code and results related to the paper "A comprehensive investigation of intracortical and corticothalamic models of alpha rhythms" by SP Bastiaens, D Momi and JD Griffiths (https://doi.org/10.1371/journal.pcbi.1012926) which focuses on the Jansen-Rit (JR), Moran-David-Friston (MDF), Liley-Wright (LW), and Robinson-Rennie-Wright (RRW) models in the alpha regime.
 
 ## Folders
 - ```code```: Contains the .py files to run the simulations to reproduce the figures from the paper.
