@@ -185,7 +185,7 @@ def S_i(t,v):
 class p:
   S_e_max = 0.5    # ms^-1
   S_i_max = 0.5    # ms^-1
-  h_e_r = -7       # mV
+  h_e_r = -70       # mV
   h_i_r = -70      # mV
   mu_e = -50       # mV
   mu_i = -50       # mV
@@ -200,6 +200,7 @@ class p:
   Gamma_ee = 0.71  # mV
   Gamma_ei = 0.71  # mV
   Gamma_ie = 0.71  # mV
+  Gamma_ii = 0.71  # mV
   gamma_ee = 0.3   # ms^-1
   gamma_ei = 0.3   # ms^-1
   gamma_ie = 0.065 # ms^-1
